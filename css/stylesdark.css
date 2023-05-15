@@ -1,0 +1,153 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+    margin: 0;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,56,56,1) 50%, rgba(0,0,0,1) 100%);
+ }
+.corgifotito {
+    height: 100px;
+    align-items: center;
+}
+.navbar{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,56,56,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+.footerclass{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,56,56,1) 50%, rgba(0,0,0,1) 100%);
+}
+
+.iniciosesion {
+    height: 55px;
+}
+.carrocompras {
+    height: 42px;
+    margin: 20px;
+}
+
+ul {
+    align-items: center;
+    filter: invert();
+}
+
+.textofooter {
+    color: rgb(253, 253, 253);
+}
+
+.corgistorelink {
+    text-decoration: none;
+}
+
+.containercard {
+    width: 98%;
+}
+
+.tituloproductos {
+    text-align: center;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-overflow: ellipsis;
+    overflow: hidden;
+    max-width: 300px;
+    white-space: nowrap;
+}
+
+
+
+.textocentro{
+    margin-bottom: 10px;
+    margin-top: 40px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.card {
+    transition: all 0.3s ease;
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,56,56,1) 50%, rgba(0,0,0,1) 100%);
+    cursor: pointer;
+}
+
+.card:hover {
+    box-shadow: 0 0.1rem 0.4rem rgba(255, 255, 255, 0.3);
+}   
+
+
+.containerProductos {
+
+    width: 400px;
+}
+
+
+hr {
+    margin-left: 25%;
+    margin-right: 25%;
+    color: white;
+}
+
+.Subtitulos {
+    font-weight: bold;
+
+}
+
+.Editar_productos{
+    margin: 35px; 
+}
+
+body {
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(56,56,56,1) 50%, rgba(0,0,0,1) 100%);
+    color: #ffffff;
+}
+  
+h1 {
+color: #cccccc;
+}
+  
+button {
+background-color: #b6b4b4;
+color: #000000;
+}
+
+#reloj {
+    width: 120px;
+    background: #000000;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+
+.descuento{
+    align-items: center;
+}
+
+.cardRegistro {
+    transition: all 0.3s ease;
+    background: rgb(42,42,42);
+    background: linear-gradient(90deg, rgba(42,42,42,1) 0%, rgba(56,56,56,1) 50%, rgba(42,42,42,1) 100%);
+    border-radius: 10px;
+}
+
+.cardRegistro:hover {
+    background: rgb(42,42,42);
+    background: linear-gradient(90deg, rgba(42,42,42,1) 0%, rgba(56,56,56,1) 50%, rgba(42,42,42,1) 100%);
+}
+
+#carouselExampleIndicators{
+    margin-top: 75px;
+}
+
+.error{
+    color: red;
+}
+.texto{
+    color: rgb(255, 255, 255);
+}
+
+#toggle-theme{
+    filter: invert();
+}
